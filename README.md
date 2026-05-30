@@ -41,3 +41,18 @@ The AI Student Impact Analysis found that using more AI tools does not mean stud
 - SciPy was used too
 
 - I did all the work, in Jupyter Notebook
+
+- ## Visualizations
+
+### Distribution of Tool Diversity
+![Distribution of Tool Diversity](Screenshot (1467).png)
+
+### Distribution of Weekly AI Usage
+![Distribution of Weekly AI Usage](Screenshot (1468).png)
+
+### Tool Diversity Vs Weekly AI Usage
+![Tool Diversity Vs Weekly AI Usage](Screenshot (1469).png)
+
+### Correlation Matrix
+![Correlation Matrix](Screenshot (1470).png)
+
